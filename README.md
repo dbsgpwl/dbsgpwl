@@ -1,4 +1,6 @@
 ## 🍀 Me 🍀
-## <img src="https://img.shields.io/badge/{hyeji yoon}-{pink}?style={plastic}"/>
+## 🎈My name is Hyeji Yoon🎈
+--------
+## <img src="https://img.shields.io/badge/♡BLOG-{ff69b4}?style={plastic}"/>
 
-### Hi there 👋
+
